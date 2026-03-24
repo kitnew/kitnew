@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m currently working on my bachelor thesis about AI-driven (CNN) Remote Sensing of Maya Ruins. As well as I do my personal projects to constantly learn something new. <br>I’m looking to collaborate on group projects, interesting ideas, AI research and anything cool.<br>I’m looking for help with finding an entry-level developer/researcher/analyst role.<br>I’m currently learning Full-Stack Web Development, cloud technologies and AI-research.<br>Ask me about good easy-to-scale grounding for AI-research to provide smooth experiments and easy manageable outcomes.
+I am currently working on my _bachelor thesis_, which focuses on the use of *AI-driven Convolutional Neural Networks (CNN) for the remote sensing of Maya ruins*. Beyond my academic work, I am constantly engaged in personal projects to further develop my _skills_ and _explore_ new _technologies_.
+
+I am an **active learner** currently diving into _Full-Stack Web Development_, _cloud technologies_, and _advanced AI research_. 
+
+I am eager to expand *my network and am looking to collaborate* on _group projects_, _innovative AI research_, or any initiative that pushes technical boundaries. If you have advice on building scalable environments for AI research—ensuring smooth experimentation and manageable outcomes—I would love to hear your insights.
+
+I am also currently exploring **opportunities** for entry-level roles in *software development*, *research*, or *data analysis*. If you know of any _open positions_ or teams that might be a good fit, please feel free to reach out.
+
+#AI #RemoteSensing #SoftwareDevelopment #TechInnovation #MachineLearning
 
 
 ## 🌐 Socials:
