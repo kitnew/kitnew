@@ -3,22 +3,39 @@
   "terminal_user": "nikita@kitnew",
   "sections": [
     {
-      "title": "System",
+      "title": "About",
       "items": [
-        ["OS", "Linux, Windows, Android"],
+        ["OS", "Fedora Linux 44 / KDE Plasma"],
         ["Role", "AI & Backend Engineer"],
-        ["Focus", "Voice Agents, LLM Systems"],
-        ["Languages.Programming", "Python, TypeScript, SQL"],
+        ["Focus", "Voice Agents, LLM Evaluation, Computer Vision"],
+        ["Programming", "Python, TypeScript, SQL"],
         ["Backend", "FastAPI, PostgreSQL, Redis"],
-        ["Infrastructure", "Docker, Linux, Caddy"],
-        ["Voice", "LiveKit, SIP, ElevenLabs"]
+        ["AI / ML", "PyTorch, Deep Learning, scikit-learn"],
+        ["Infrastructure", "Docker, Linux, GitHub Actions, Caddy"]
       ]
     },
     {
       "title": "Projects",
       "items": [
-        ["Main", "Multi-tenant Voice Agent Platform"],
-        ["Other", "VerifiLab"]
+        ["Voice Platform", "Multi-Tenant Hospitality Voice Agents"],
+        ["VerifiLab", "RLVR Evaluation & Dataset Operations"],
+        ["LiDAR Research", "Archaeological Semantic Segmentation"],
+        ["MedPlant", "CNN Research Replication"]
+      ]
+    },
+    {
+      "title": "Background",
+      "items": [
+        ["Education", "BSc Intelligent Systems, TUKE"],
+        ["Leadership", "IT Coordinator, BEST Košice"],
+        ["Location", "Košice, Slovakia"]
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": [
+        ["Email", "nikitachernysh86@gmail.com"],
+        ["LinkedIn", "nikitachernysh86"]
       ]
     }
   ]

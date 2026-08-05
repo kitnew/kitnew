@@ -1,0 +1,307 @@
+{
+  "repositories": {
+    "BEST-Kosice/.github": {
+      "additions": 442,
+      "authored_commits": 12,
+      "branch_commit_count": 12,
+      "deletions": 87,
+      "head_oid": "776337e350b70ef96bb94a801c36c9b3e47b8596"
+    },
+    "BEST-Kosice/Intro-presentation": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "316e7381802fce2cb24e772121c824d87ddf5426"
+    },
+    "BEST-Kosice/Logos-and-visual-identity-guidelines": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 1,
+      "deletions": 0,
+      "head_oid": "2988a034940640f9955e21a4696d526a0780da49"
+    },
+    "BEST-Kosice/best-hackaton": {
+      "additions": 66431,
+      "authored_commits": 34,
+      "branch_commit_count": 43,
+      "deletions": 131110,
+      "head_oid": "b1336d5840df45a919b48fc658eb18aaa3035c3f"
+    },
+    "BEST-Kosice/best_website_test": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 0,
+      "deletions": 0,
+      "head_oid": null
+    },
+    "BEST-Kosice/bestke-website": {
+      "additions": 33286,
+      "authored_commits": 17,
+      "branch_commit_count": 30,
+      "deletions": 23683,
+      "head_oid": "6a22816193a5a11c80393a7fb0687ba809d1f7ef"
+    },
+    "BEST-Kosice/google-drive-backup-scripts": {
+      "additions": 1102,
+      "authored_commits": 2,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "e806e1158d836c346f8ad330557f0d90d5b3b8be"
+    },
+    "BEST-Kosice/sc19": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 0,
+      "deletions": 0,
+      "head_oid": null
+    },
+    "BEST-Kosice/wp_best_courses_lbgs": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 112,
+      "deletions": 0,
+      "head_oid": "59914ed19c9dc8bf9eecff99857e3793df65fbfc"
+    },
+    "kitnew/BugBrief": {
+      "additions": 10000,
+      "authored_commits": 24,
+      "branch_commit_count": 90,
+      "deletions": 326,
+      "head_oid": "3bdc802572b38980a98842afd4dfa0c8a94ba897"
+    },
+    "kitnew/Dungeon_Master": {
+      "additions": 22772,
+      "authored_commits": 2,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "4af53451ffb6b1d703135f75f0c6b3948a5a44b4"
+    },
+    "kitnew/GrabAndGo": {
+      "additions": 860,
+      "authored_commits": 7,
+      "branch_commit_count": 7,
+      "deletions": 58,
+      "head_oid": "b5a8744b546a6346a44acd326fca2c511e49748b"
+    },
+    "kitnew/about-me": {
+      "additions": 8986,
+      "authored_commits": 3,
+      "branch_commit_count": 5,
+      "deletions": 2047,
+      "head_oid": "50cd8e5d16a196ae8c3e90c47f52dee58fe17352"
+    },
+    "kitnew/agentic-backend": {
+      "additions": 49363,
+      "authored_commits": 56,
+      "branch_commit_count": 56,
+      "deletions": 17358,
+      "head_oid": "b05727939c7182c7227354d4ba38d76434007bc7"
+    },
+    "kitnew/bank-info-archive": {
+      "additions": 4842,
+      "authored_commits": 39,
+      "branch_commit_count": 39,
+      "deletions": 1220,
+      "head_oid": "ebb2d6d462b8581936846bd0969d9c7ac1e6530e"
+    },
+    "kitnew/bike-gru-experiments": {
+      "additions": 1146933,
+      "authored_commits": 29,
+      "branch_commit_count": 29,
+      "deletions": 376,
+      "head_oid": "ee86cd7f7ad5e06c83a348ff33b256f434ef6549"
+    },
+    "kitnew/blbko-jump": {
+      "additions": 1401,
+      "authored_commits": 7,
+      "branch_commit_count": 7,
+      "deletions": 123,
+      "head_oid": "e1ee2b8d303ec75ff51b4c7d5448359510586bcf"
+    },
+    "kitnew/dead-code-hunter": {
+      "additions": 2550,
+      "authored_commits": 14,
+      "branch_commit_count": 14,
+      "deletions": 347,
+      "head_oid": "1e65aa767657058fcf07095b909e35e41d08bd5d"
+    },
+    "kitnew/definitely_sucked": {
+      "additions": 542,
+      "authored_commits": 6,
+      "branch_commit_count": 6,
+      "deletions": 1,
+      "head_oid": "3ed5518a36ee09862aa1587e7074bd7acbad9978"
+    },
+    "kitnew/dotfiles": {
+      "additions": 443,
+      "authored_commits": 2,
+      "branch_commit_count": 3,
+      "deletions": 0,
+      "head_oid": "e212841f6ebee26be4ddd01b6b760174287d1e2c"
+    },
+    "kitnew/exploratory-data-analysis": {
+      "additions": 1252,
+      "authored_commits": 2,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "4c383db576aaa569969095062b9d910b06ab9108"
+    },
+    "kitnew/hodik": {
+      "additions": 16913,
+      "authored_commits": 2,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "3d8c2ced3cfcac5661816cdaee9086898e599b0c"
+    },
+    "kitnew/hodik-casino": {
+      "additions": 34541,
+      "authored_commits": 56,
+      "branch_commit_count": 56,
+      "deletions": 23553,
+      "head_oid": "1780706841e6168d483ac3bea71bf2ff99e73b02"
+    },
+    "kitnew/kitnew": {
+      "additions": 352,
+      "authored_commits": 7,
+      "branch_commit_count": 7,
+      "deletions": 120,
+      "head_oid": "ce61f145d607b8500407b60d0749b1279e9b0e50"
+    },
+    "kitnew/lidar-archaeology-segmentation": {
+      "additions": 37537,
+      "authored_commits": 49,
+      "branch_commit_count": 52,
+      "deletions": 6793,
+      "head_oid": "ff5b8fcf6b13b7f5a2c4df3cdb35ddc8c6ec1156"
+    },
+    "kitnew/medplant-deepclassifier": {
+      "additions": 8496,
+      "authored_commits": 25,
+      "branch_commit_count": 25,
+      "deletions": 4279,
+      "head_oid": "3c3635e76f85efda728c89f7966ff0f020ac9225"
+    },
+    "kitnew/nastya-birthday-website": {
+      "additions": 2326,
+      "authored_commits": 4,
+      "branch_commit_count": 4,
+      "deletions": 0,
+      "head_oid": "2b7073ce24a31e7682e19a03a0177811ac95eb40"
+    },
+    "kitnew/personal-cloud": {
+      "additions": 1923,
+      "authored_commits": 25,
+      "branch_commit_count": 27,
+      "deletions": 293,
+      "head_oid": "41baecff785c88b16de16dfd23302bf48980d82a"
+    },
+    "kitnew/personal-cloud-agent": {
+      "additions": 56,
+      "authored_commits": 1,
+      "branch_commit_count": 1,
+      "deletions": 0,
+      "head_oid": "73fe42d0a59e4319145bf8e8645e42efe1acaad5"
+    },
+    "kitnew/personal-cloud-infrastructure": {
+      "additions": 1,
+      "authored_commits": 1,
+      "branch_commit_count": 1,
+      "deletions": 0,
+      "head_oid": "6b638bc87e61d8145b79ed72b183fc878b80e786"
+    },
+    "kitnew/personal-cloud-server": {
+      "additions": 208,
+      "authored_commits": 1,
+      "branch_commit_count": 1,
+      "deletions": 0,
+      "head_oid": "22cdf88a570d0db1ac193d7c14fcb1fa16e8cec6"
+    },
+    "kitnew/playrix-test_task": {
+      "additions": 331,
+      "authored_commits": 6,
+      "branch_commit_count": 6,
+      "deletions": 4,
+      "head_oid": "70fe4ac59f89b4a5f53ddfb6e84a9d63c4500ea3"
+    },
+    "kitnew/quickshell-components-store": {
+      "additions": 9370,
+      "authored_commits": 6,
+      "branch_commit_count": 6,
+      "deletions": 428,
+      "head_oid": "f38118034d8873b9ab16029392734f6bf790ebcd"
+    },
+    "kitnew/resnet-comparison-project": {
+      "additions": 9828,
+      "authored_commits": 25,
+      "branch_commit_count": 25,
+      "deletions": 5043,
+      "head_oid": "4fbfa95cc6a9eb2f03a49d1c167ce504f53e5b4a"
+    },
+    "kitnew/shared-place": {
+      "additions": 47,
+      "authored_commits": 2,
+      "branch_commit_count": 11,
+      "deletions": 0,
+      "head_oid": "39bf18449401b1630ff134b8540cb6558a20a5d4"
+    },
+    "kitnew/steel-faults-ml": {
+      "additions": 229,
+      "authored_commits": 1,
+      "branch_commit_count": 5,
+      "deletions": 0,
+      "head_oid": "a2c262463369fe491fd4e659b8a1a604f061acab"
+    },
+    "kitnew/steel-faults-mlp": {
+      "additions": 1580,
+      "authored_commits": 2,
+      "branch_commit_count": 2,
+      "deletions": 0,
+      "head_oid": "04f9e1ee62a51f28ecbe4cc04ae1e72a7d072765"
+    },
+    "kitnew/telegram-honest-reactions": {
+      "additions": 542,
+      "authored_commits": 8,
+      "branch_commit_count": 8,
+      "deletions": 16,
+      "head_oid": "bcd555419a7c06de4377feaee3f1a15428bba5a4"
+    },
+    "kitnew/valentine-proposal": {
+      "additions": 5812,
+      "authored_commits": 4,
+      "branch_commit_count": 4,
+      "deletions": 2,
+      "head_oid": "bdb89baef409f33eb43d1777704e791170c67ff7"
+    },
+    "kitnew/valentines-day": {
+      "additions": 2883,
+      "authored_commits": 6,
+      "branch_commit_count": 6,
+      "deletions": 114,
+      "head_oid": "1c1f811bdb4b0e7f05d526d9249d6c571b67c325"
+    },
+    "kitnew/verifilab": {
+      "additions": 21172,
+      "authored_commits": 38,
+      "branch_commit_count": 38,
+      "deletions": 1533,
+      "head_oid": "9c75e26989719b6c113ccc6922bf50ca43247068"
+    },
+    "kitnew/worry-burner": {
+      "additions": 6220,
+      "authored_commits": 4,
+      "branch_commit_count": 4,
+      "deletions": 21,
+      "head_oid": "297272334dcd751d759e365fa90ac3d59bae5321"
+    },
+    "sohanjs111/cphHackathon": {
+      "additions": 0,
+      "authored_commits": 0,
+      "branch_commit_count": 12,
+      "deletions": 0,
+      "head_oid": "8f68c7820da10e9e0cf9a661eaafc4045cfd4b27"
+    }
+  },
+  "username": "kitnew",
+  "version": 1
+}
