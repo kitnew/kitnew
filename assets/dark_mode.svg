@@ -23,14 +23,14 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="90">        ;;+:Xx+XX$+XXxXxXXX$XXXXx$x;;:       </tspan>
 <tspan x="15" y="110">       ::++x+X$$$$XXX$$XXXX$X$XxXXXxx++:     </tspan>
 <tspan x="15" y="130">     xXX+XXXXXX$XX$x$XxXX$$$$XxxxXX$XXXxx;   </tspan>
-<tspan x="15" y="150">    :;+$X$X&Xx$XXXXXxXX$$X$$X$xX$$&XXxxX;.:  </tspan>
-<tspan x="15" y="170">  ::xxXX$xX$$X$$$X$XX$X$X$xX$&$$$$$XXx+XX+:  </tspan>
-<tspan x="15" y="190"> ;++X$$+X+$XX$XxXXXXX&$$$$$x$XX$$xxX$$X$xXx. </tspan>
+<tspan x="15" y="150">    :;+$X$X&ampXx$XXXXXxXX$$X$$X$xX$$&ampXXxxX;.:  </tspan>
+<tspan x="15" y="170">  ::xxXX$xX$$X$$$X$XX$X$X$xX$&amp$$$$$XXx+XX+:  </tspan>
+<tspan x="15" y="190"> ;++X$$+X+$XX$XxXXXXX&amp$$$$$x$XX$$xxX$$X$xXx. </tspan>
 <tspan x="15" y="210">  +XXx$XX$X$XXxxXXXXxX$XX$X$$Xx+xXXXX$xx$$$X </tspan>
 <tspan x="15" y="230">:X+X$XX$$$XXXX$x+X$xXXXxxXXXxXx+xxx$$$X$X$XX$</tspan>
-<tspan x="15" y="250"> ;$$&$$$XXxXxX+$XX$XX$++$$X+++x$xxxx$XXXXxXx;</tspan>
-<tspan x="15" y="270">  XX$X$X$x++++;;;x$$$+;;;;XxXX+++++xXX&XX$X; </tspan>
-<tspan x="15" y="290">  ::X&XXXX;;;;+;;;;;;:::::::;;;;;;;+X$X$$XX  </tspan>
+<tspan x="15" y="250"> ;$$&amp$$$XXxXxX+$XX$XX$++$$X+++x$xxxx$XXXXxXx;</tspan>
+<tspan x="15" y="270">  XX$X$X$x++++;;;x$$$+;;;;XxXX+++++xXX&ampXX$X; </tspan>
+<tspan x="15" y="290">  ::X&ampXXXX;;;;+;;;;;;:::::::;;;;;;;+X$X$$XX  </tspan>
 <tspan x="15" y="310">   :xXXXx+;;;;;;::::;::::;::;;;;;;;++XX$$x   </tspan>
 <tspan x="15" y="330">    ;X$Xx;+++;;+xXx+;;;;;;xXX+;;;;++;xX$X;   </tspan>
 <tspan x="15" y="350">     xxX+;;+++X$$Xx++;::;xx++:;xXX++;+XXx;   </tspan>
@@ -46,12 +46,12 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="550">            ;;;;;;;+++++++++;;;;+++          </tspan>
 <tspan x="15" y="570">            ;;+++;++++xxx++++++++++          </tspan>
 <tspan x="15" y="590">            ;;+++++;;;;;;;;;;;+++++          </tspan>
-<tspan x="15" y="610">           &;;;;++;;;;;;;;;;+++++++;         </tspan>
+<tspan x="15" y="610">           &amp;;;;++;;;;;;;;;;+++++++;         </tspan>
 <tspan x="15" y="630">          $+;;;;;;+x+++++++x+++++++$$        </tspan>
 <tspan x="15" y="650">         $$x+;;;;;+++++xx++++++++++X$X       </tspan>
 <tspan x="15" y="670">        $$$$+;;;;;;++++;;++++++++++$$$$      </tspan>
 <tspan x="15" y="690">      $$$$$$$+;;;;;;;;+++++++;;;++X$$$$$:    </tspan>
-<tspan x="15" y="710">  $$$$$$$$$$$X+;;;;;;;;;++++;;;++XX$$$$$&$$X </tspan>
+<tspan x="15" y="710">  $$$$$$$$$$$X+;;;;;;;;;++++;;;++XX$$$$$&amp$$X </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
