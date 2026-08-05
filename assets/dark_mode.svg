@@ -1,21 +1,34 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="ConsolasFallback,Consolas,monospace"
+  width="1100"
+  height="730"
+  viewBox="0 0 1100 730"
+  font-size="16"
+>
 <style>
 @font-face {
-src: local('Consolas'), local('Consolas Bold');
-font-family: 'ConsolasFallback';
-font-display: swap;
--webkit-size-adjust: 109%;
-size-adjust: 109%;
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
+
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.addColor { fill: #3fb950; }
+.delColor { fill: #f85149; }
+.cc { fill: #616e7f; }
+
+text,
+tspan {
+  white-space: pre;
+}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+
+<rect width="1100" height="730" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                  :::+;.+++ . ;              </tspan>
 <tspan x="15" y="50">            ..;+xx+x++:+XxXX++x:.  :         </tspan>
@@ -23,14 +36,14 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="90">        ;;+:Xx+XX$+XXxXxXXX$XXXXx$x;;:       </tspan>
 <tspan x="15" y="110">       ::++x+X$$$$XXX$$XXXX$X$XxXXXxx++:     </tspan>
 <tspan x="15" y="130">     xXX+XXXXXX$XX$x$XxXX$$$$XxxxXX$XXXxx;   </tspan>
-<tspan x="15" y="150">    :;+$X$X&ampXx$XXXXXxXX$$X$$X$xX$$&ampXXxxX;.:  </tspan>
-<tspan x="15" y="170">  ::xxXX$xX$$X$$$X$XX$X$X$xX$&amp$$$$$XXx+XX+:  </tspan>
-<tspan x="15" y="190"> ;++X$$+X+$XX$XxXXXXX&amp$$$$$x$XX$$xxX$$X$xXx. </tspan>
+<tspan x="15" y="150">    :;+$X$X&amp;Xx$XXXXXxXX$$X$$X$xX$$&amp;XXxxX;.:  </tspan>
+<tspan x="15" y="170">  ::xxXX$xX$$X$$$X$XX$X$X$xX$&amp;$$$$$XXx+XX+:  </tspan>
+<tspan x="15" y="190"> ;++X$$+X+$XX$XxXXXXX&amp;$$$$$x$XX$$xxX$$X$xXx. </tspan>
 <tspan x="15" y="210">  +XXx$XX$X$XXxxXXXXxX$XX$X$$Xx+xXXXX$xx$$$X </tspan>
 <tspan x="15" y="230">:X+X$XX$$$XXXX$x+X$xXXXxxXXXxXx+xxx$$$X$X$XX$</tspan>
-<tspan x="15" y="250"> ;$$&amp$$$XXxXxX+$XX$XX$++$$X+++x$xxxx$XXXXxXx;</tspan>
-<tspan x="15" y="270">  XX$X$X$x++++;;;x$$$+;;;;XxXX+++++xXX&ampXX$X; </tspan>
-<tspan x="15" y="290">  ::X&ampXXXX;;;;+;;;;;;:::::::;;;;;;;+X$X$$XX  </tspan>
+<tspan x="15" y="250"> ;$$&amp;$$$XXxXxX+$XX$XX$++$$X+++x$xxxx$XXXXxXx;</tspan>
+<tspan x="15" y="270">  XX$X$X$x++++;;;x$$$+;;;;XxXX+++++xXX&amp;XX$X; </tspan>
+<tspan x="15" y="290">  ::X&amp;XXXX;;;;+;;;;;;:::::::;;;;;;;+X$X$$XX  </tspan>
 <tspan x="15" y="310">   :xXXXx+;;;;;;::::;::::;::;;;;;;;++XX$$x   </tspan>
 <tspan x="15" y="330">    ;X$Xx;+++;;+xXx+;;;;;;xXX+;;;;++;xX$X;   </tspan>
 <tspan x="15" y="350">     xxX+;;+++X$$Xx++;::;xx++:;xXX++;+XXx;   </tspan>
@@ -46,12 +59,12 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="550">            ;;;;;;;+++++++++;;;;+++          </tspan>
 <tspan x="15" y="570">            ;;+++;++++xxx++++++++++          </tspan>
 <tspan x="15" y="590">            ;;+++++;;;;;;;;;;;+++++          </tspan>
-<tspan x="15" y="610">           &amp;;;;++;;;;;;;;;;+++++++;         </tspan>
+<tspan x="15" y="610">           &amp;;;;;++;;;;;;;;;;+++++++;         </tspan>
 <tspan x="15" y="630">          $+;;;;;;+x+++++++x+++++++$$        </tspan>
 <tspan x="15" y="650">         $$x+;;;;;+++++xx++++++++++X$X       </tspan>
 <tspan x="15" y="670">        $$$$+;;;;;;++++;;++++++++++$$$$      </tspan>
 <tspan x="15" y="690">      $$$$$$$+;;;;;;;;+++++++;;;++X$$$$$:    </tspan>
-<tspan x="15" y="710">  $$$$$$$$$$$X+;;;;;;;;;++++;;;++XX$$$$$&amp$$X </tspan>
+<tspan x="15" y="710">  $$$$$$$$$$$X+;;;;;;;;;++++;;;++XX$$$$$&amp;$$X </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
