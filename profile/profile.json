@@ -1,0 +1,25 @@
+{
+  "username": "kitnew",
+  "terminal_user": "nikita@kitnew",
+  "sections": [
+    {
+      "title": "System",
+      "items": [
+        ["OS", "Linux, Windows, Android"],
+        ["Role", "AI & Backend Engineer"],
+        ["Focus", "Voice Agents, LLM Systems"],
+        ["Languages.Programming", "Python, TypeScript, SQL"],
+        ["Backend", "FastAPI, PostgreSQL, Redis"],
+        ["Infrastructure", "Docker, Linux, Caddy"],
+        ["Voice", "LiveKit, SIP, ElevenLabs"]
+      ]
+    },
+    {
+      "title": "Projects",
+      "items": [
+        ["Main", "Multi-tenant Voice Agent Platform"],
+        ["Other", "VerifiLab"]
+      ]
+    }
+  ]
+}
