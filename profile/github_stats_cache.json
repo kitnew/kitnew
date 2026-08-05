@@ -162,11 +162,11 @@
       "head_oid": "1780706841e6168d483ac3bea71bf2ff99e73b02"
     },
     "kitnew/kitnew": {
-      "additions": 352,
-      "authored_commits": 7,
-      "branch_commit_count": 7,
-      "deletions": 120,
-      "head_oid": "ce61f145d607b8500407b60d0749b1279e9b0e50"
+      "additions": 1660,
+      "authored_commits": 9,
+      "branch_commit_count": 9,
+      "deletions": 285,
+      "head_oid": "a30d3241e60cca83ec6eb1ed065c1b8104eae3ae"
     },
     "kitnew/lidar-archaeology-segmentation": {
       "additions": 37537,
