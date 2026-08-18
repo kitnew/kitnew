@@ -92,11 +92,11 @@
       "head_oid": "50cd8e5d16a196ae8c3e90c47f52dee58fe17352"
     },
     "kitnew/agentic-backend": {
-      "additions": 50558,
-      "authored_commits": 72,
-      "branch_commit_count": 72,
-      "deletions": 17725,
-      "head_oid": "390011c03e204537a3d25641179f49170e1d6de3"
+      "additions": 156303,
+      "authored_commits": 146,
+      "branch_commit_count": 146,
+      "deletions": 47789,
+      "head_oid": "d7c890e78477a55a4b1d85a4be1d55723823ea99"
     },
     "kitnew/bank-info-archive": {
       "additions": 4842,
@@ -164,9 +164,9 @@
     "kitnew/kitnew": {
       "additions": 1660,
       "authored_commits": 9,
-      "branch_commit_count": 21,
+      "branch_commit_count": 22,
       "deletions": 285,
-      "head_oid": "4ec7992a877745e42537fe91e552633a0721994b"
+      "head_oid": "13928707435f39cd2a2e352f149648f1608fea27"
     },
     "kitnew/lidar-archaeology-segmentation": {
       "additions": 37537,
